@@ -6,7 +6,7 @@
   "keywords": [".NET", "Microsoft", "ASP.NET"],
   "buildpacks": [
     {
-      "url": "http://github.com/heroku/dotnet-buildpack.git"
+      "url": "https://github.com/jincod/dotnet-buildpack"
     }
   ]
 }
